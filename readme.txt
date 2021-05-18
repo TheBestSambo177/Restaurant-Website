@@ -3,11 +3,11 @@ It is created by Samuel Kennedy and Javarn Tromp
 Samuel Kennedy:
 Role:Coding, Planning.
 From Napier New Zealand
-Tertiary education with ue 2020 studying at Taradale High school with courses in computer science, stats, calculus, accounting digital media.
+Tertiary education with UE 2020 studying at Taradale High school with courses in computer science, stats, calculus, accounting digital media.
 Worked at PGA for 2 years and kiwi fruit thinning for a summer.
-Javarn Tromp
+Javarn Tromp de Haas
 Role:Design, Planning.
-Tertiary education with ue 2020 studying at Taradale High school with courses in computer science, english, math, media studies and digital media.
+Tertiary education with UE 2020 studying at Taradale High school with courses in computer science, english, math, media studies and digital media.
 Worked at PGA for 1 year.
 
 Project Charter:
@@ -27,7 +27,7 @@ Contrast, making sure the images and text work well with each other.
 
 Main stakeholders
 Samuel Kennedy 50%
-Javarn Tromp 50%
+Javarn Tromp de Haas 50%
 
 Risks
 Errors like buttons not working
@@ -45,9 +45,10 @@ The website will be three pages one being the home page, and information page, C
 It will be targeted at adults.
 
 Project Vision
-
+Our vision for this project is to create a website that's easy to understand and navigate, while also being visually appealing for the users.
 
 Scope
+The website will include features such as buttons for navigation, dropdown boxes, text input boxes, 
 
 Major Milestones
 
