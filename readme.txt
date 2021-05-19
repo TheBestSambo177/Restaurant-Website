@@ -52,8 +52,10 @@ The website will include features such as buttons for navigation, dropdown boxes
 
 Major Milestones:
 Planning done by 20/05/21
-Base designs done by
-Finalised designs done by
+Initial design by 
+Improved designs by
+Development started by 
+Development finished by
 
 
 
