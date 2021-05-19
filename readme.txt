@@ -50,7 +50,12 @@ Our vision for this project is to create a website that's easy to understand and
 Scope
 The website will include features such as buttons for navigation, dropdown boxes, text input boxes, 
 
-Major Milestones
+Major Milestones:
+Planning done by 20/05/21
+Base designs done by
+Finalised designs done by
+
+
 
 
 Dependencies
