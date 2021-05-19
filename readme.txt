@@ -59,11 +59,14 @@ Development finished by
 
 
 
-
 Dependencies:
+Designs depend on having basic planning done.
+Development depends on initial designs.
+
 
 
 Timeline:
+3rd May - 17 June
 
 
 
