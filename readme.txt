@@ -1,5 +1,5 @@
 This is a restaurant booking website
-It is created by Samuel Kennedy and Javarn Tromp
+It is created by Samuel Kennedy and Javarn Tromp de Haas
 Samuel Kennedy:
 Role:Coding, Planning.
 From Napier New Zealand
@@ -20,34 +20,34 @@ Easy to navigate
 Visually appealing
 Recongition over recall
 
-Constraits
+Constraits:
 
 Making it to cluttured 
 Contrast, making sure the images and text work well with each other.
 
-Main stakeholders
+Main stakeholders:
 Samuel Kennedy 50%
 Javarn Tromp de Haas 50%
 
-Risks
+Risks:
 Errors like buttons not working
 Hackers
 Been outdated
 Accesability
 
-Benefits
+Benefits:
 Quicker and faster booking system
 Being able to do it anywhere with internet
 Increase customer count for businesses
 
-General overview
+General overview:
 The website will be three pages one being the home page, and information page, Checkoutpage
 It will be targeted at adults.
 
-Project Vision
+Project Vision:
 Our vision for this project is to create a website that's easy to understand and navigate, while also being visually appealing for the users.
 
-Scope
+Scope:
 The website will include features such as buttons for navigation, dropdown boxes, text input boxes, 
 
 Major Milestones:
@@ -58,10 +58,10 @@ Finalised designs done by
 
 
 
-Dependencies
+Dependencies:
 
 
-Timeline
+Timeline:
 
 
 
