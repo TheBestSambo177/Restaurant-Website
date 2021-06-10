@@ -7,12 +7,16 @@ html, body {
 
 html {
   font-size: 10px;
-  background-color: #a9a9a9;
+  background-color: ;
 }
 
 body {
   width: 70%;
   margin: 0 auto;
+  background-image: url('images/background.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: cover;
 }
 
 /* || typography */
@@ -50,10 +54,7 @@ p, li {
 
 /* || header layout */
 
-nav, article, aside, footer {
-  background-color: white;
-  padding: 1%;
-}
+
 
 nav {
   height: 50px;
@@ -75,13 +76,7 @@ nav li {
   flex: 1;
 }
 
-nav a {
-  display: inline-block;
-  font-size: 2rem;
-  text-transform: uppercase;
-  text-decoration: none;
-  color: black;
-}
+
 
 nav form {
   flex: 1;
@@ -114,8 +109,17 @@ main {
   display: flex;
 }
 
+img {
+  position: absolute;
+  left: 850px;
+  top: 450px;
+  z-index: -1;
+}
+
 article {
   flex: 4;
+  margin-top: 100px;
+  font-family: Arial;
 }
 
 aside {
@@ -129,5 +133,6 @@ aside li {
 }
 
 footer {
-  margin-top: 10px;
+  margin-top: 560px;
+  margin-left: 700px;
 }
