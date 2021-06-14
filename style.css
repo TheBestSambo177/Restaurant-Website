@@ -34,13 +34,14 @@ p, input, li {
 h1 {
   font-size: 4rem;
   text-align: center;
-  color: white;
-  text-shadow: 2px 2px 10px black;
+  color: black;
+  font-family: calibri;
 }
 
 h2 {
   font-size: 3rem;
   text-align: center;
+  font-family: calibri;
 }
 
 h3 {
@@ -136,3 +137,4 @@ footer {
   margin-top: 560px;
   margin-left: 700px;
 }
+
