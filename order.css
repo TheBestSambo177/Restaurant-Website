@@ -123,6 +123,18 @@ article {
   font-family: Arial;
 }
 
+/* Button */
+button {
+	border: black;
+	color: green;
+	padding: 15px 36px;
+	text-align: center;
+	display: inline-block;
+	font-size: 24px;
+	position: relative;
+	left: 75%;
+}
+
 /*Input Boxes*/
 .input1
 {
