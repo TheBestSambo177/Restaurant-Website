@@ -123,59 +123,127 @@ article {
   font-family: Arial;
 }
 
+/*Input Boxes*/
 .input1
 {
-width:200px;
+width:15%;
 height:40px;
+float: left;
+color: black;
 }
 .input2
 {
-width:200px;
+width:15%;
 height:40px;
+position: absolute;
+left: 43%;
+color: black;
 }
 .input3
 {
-width:200px;
+width:15%;
 height:40px;
+float: right;
+color: black;
 }
 .input4
 {
 width:535px;
 height:40px;
+float: left;
+color: black;
 }
 .input5
 {
-width:200px;
+width:15%;
 height:40px;
+float: right;
+color: black;
 }
 .infant
 {
-width:200px;
+width:15%;
 height:40px;
+position: absolute;
+left: 43%;
+color: black;
 }
 .child
 {
-width:200px;
+width:15%;
 height:40px;
+position: absolute;
+left: 43%;
+color: black;
 }
 .teen
 {
-width:200px;
+width:15%;
 height:40px;
+position: absolute;
+left: 43%;
+color: black;
 }
 .adult
 {
-width:200px;
+width:15%;
 height:40px;
+position: absolute;
+left: 43%;
+color: black;
 }
 .elderly
 {
-width:200px;
+width:15%;
 height:40px;
+position: absolute;
+left: 43%;
+color: black;
 }
 
+/*Input Box Labels*/
+.fname
+{
+position: absolute;
+left: 15%;
+top: 14%;
+color: black;
+}
+.lname
+{
+position: absolute;
+left: 43%;
+top: 14%;
+color: black;
+}
+.bdate
+{
+position: absolute;
+left: 74%;
+top: 14%;
+color: black;
+}
+.email
+{
+position: absolute;
+left: 15%;
+top: 24%;
+color: black;
+}
+.location
+{
+position: absolute;
+left: 74%;
+top: 24%;
+color: black;
+}
+
+
+
+
+
 .WebContainer{
-    width: 100%;
+    width: auto;
     height: auto;
 }
 .articles{
