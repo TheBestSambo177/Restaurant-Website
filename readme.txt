@@ -15,19 +15,18 @@ We chose this website as the current ones are lacking in user interface and don'
 Our website will also account for the amount of food making sure that there will be enough before going to the restraunt.
 
 Objectives:
-Good ui
-Easy to navigate
-Visually appealing
-Recongition over recall
+- Good ui
+- Easy to navigate
+- Visually appealing
+- Recongition over recall
 
 Constraits:
-
-Making it to cluttured 
-Contrast, making sure the images and text work well with each other.
+- Not making it too cluttured 
+- Contrast, making sure the images and text work well with each other.
 
 Main stakeholders:
-Samuel Kennedy 50%
-Javarn Tromp de Haas 50%
+- Samuel Kennedy 50%
+- Javarn Tromp de Haas 50%
 
 Risks:
 - Errors like buttons not working
