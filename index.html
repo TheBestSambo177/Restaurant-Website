@@ -1,12 +1,11 @@
 <!DOCTYPE html>
 <html>
-
   <head>
     <meta charset="utf-8">
 
-    <title>Checkout</title>
+    <title>Restaurant Booking</title>
     <link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Sonsie+One" rel="stylesheet" type="text/css">
-    <link rel="stylesheet" href="checkout.css">
+    <link rel="stylesheet" href="style.css">
     <link rel="shortcut icon" href="images/icon.ico">
 
     <!-- the below three lines are a fix to get HTML5 semantic elements working in old versions of Internet Explorer-->
@@ -19,66 +18,32 @@
     <!-- Here is our main header that is used across all the pages of our website -->
 
     <header>
-      <h1>Checkout</h1>
+      <h1>Restaurant Booking</h1>
     </header>
+
 	
-	<section>
+    	<a href ="index.html"><img src="images/logo.png" alt="Logo" width="250" height="200" style="vertical-align:middle;margin:-450px -850px"></a>
+
     <!-- Here is our page's main content -->
+    <main>
 
-    <article>
+      <!-- It contains an article -->
+      <article>
+        <h2>Our easy to use booking system will ensure <br> you have the best possible experience with us.</h2>
+	<a href ="order.html"><button type="button">Get Started</button></a>
 
+        
+      </article>
 
-<!-- Logo in the top left that brings user to homepage. -->
-<a href ="index.html"><img src="images/logo.png" alt="Logo" width="250" height="200" style="vertical-align:middle;margin:-450px -850px"></a>
+    
 
-<!-- Labels for textboxes. -->
-<p class="fname"> First Name: </p>
-<p class="lname"> Last Name: </p>
-<p class="bdate"> Booking Date: </p>
-<p class="email"> Email Address: </p>
-<p class="location"> Resturaunt Location: </p>
-<p class="booking1"> Infants: </p>
-<p class="booking2"> Children: </p>
-<p class="booking3"> Teens: </p>
-<p class="booking4"> Adults: </p>
-<p class="booking5"> Elderly: </p>
+    </main>
 
-<!-- All textboxes. -->
-<form>
+    <!-- And here is our main footer that is used across all the pages of our website -->
 
-         <textarea rows = "4" cols = "40" name = "description">
-            Name Of Booking 
-	    Resturaunt Name
-      Table Size and Date and Time
-	        Pricing
-         </textarea><br>
-		 
-
-
-<input type="text" style="vertical-align:middle;" class="PaymentMethod" placeholder="Payment Method">
-
-<input type="text" style="vertical-align:middle;" class="NameCard" placeholder="Name On Card">
-
-
-<input type="number" min="0" max="9" style="vertical-align:bottom;" class="AccNum" placeholder="Account Number"> <br> <br> <br> <br> <br> <br> <br>  
-
-
-<input type="text" style="vertical-align:top;" class="Date" placeholder="DD/MM/YYYY"> <br> <br> <br> <br> <br> <br> <br> <br>
-
-
-
-
-
-<input type="number" min="0" max="9" style="vertical-align:bottom;" class="CVV" placeholder="CVV"> <br> <br> <br> <br> <br> <br> <br> 
-
-
-		 
-</form>
-
-	<a href ="index.html"><button type="button">Finish Order</button></a>
-
-    </article>
-	</section>
+    <footer>
+      <p>Email us at RestaurantBooking@gmail.com for full 24/7 Support</p>
+    </footer>
 
   </body>
 </html>
