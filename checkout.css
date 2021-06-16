@@ -144,75 +144,56 @@ height:40px;
 float: left;
 color: black;
 }
-.input2
+
+.CVV
 {
 width:15%;
-height:40px;
-position: absolute;
-left: 43%;
-color: black;
-}
-.input3
-{
-width:15%;
-height:40px;
-float: right;
-color: black;
-}
-.input4
-{
-width:535px;
 height:40px;
 float: left;
 color: black;
 }
-.input5
+
+.AccNum
+{
+width:15%;
+height:40px;
+float: left;
+color: black;
+}
+
+.NameCard
+{
+width:15%;
+height:40px;
+float: left;
+color: black;
+}
+
+.Date
+{
+width:15%;
+height:40px;
+float: left;
+color: black;
+}
+
+.PaymentMethod
 {
 width:15%;
 height:40px;
 float: right;
 color: black;
 }
-.infant
+
+.BookingSum
 {
 width:15%;
 height:40px;
-position: absolute;
-left: 43%;
+float: left;
 color: black;
 }
-.child
-{
-width:15%;
-height:40px;
-position: absolute;
-left: 43%;
-color: black;
-}
-.teen
-{
-width:15%;
-height:40px;
-position: absolute;
-left: 43%;
-color: black;
-}
-.adult
-{
-width:15%;
-height:40px;
-position: absolute;
-left: 43%;
-color: black;
-}
-.elderly
-{
-width:15%;
-height:40px;
-position: absolute;
-left: 43%;
-color: black;
-}
+
+	
 
 /*Input Box Labels*/
 .fname
