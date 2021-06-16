@@ -167,6 +167,9 @@ width:15%;
 height:40px;
 float: left;
 color: black;
+left: 40%;
+position: absolute;
+top: 47%;
 }
 
 .Date
@@ -181,8 +184,11 @@ color: black;
 {
 width:15%;
 height:40px;
-float: right;
+left: 55%;
+top: 32%;
+float: middle;
 color: black;
+position: absolute;
 }
 
 .BookingSum
