@@ -1,0 +1,319 @@
+/* || General setup */
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 10px;
+  background-color: ;
+}
+
+body {
+  width: 70%;
+  margin: 0 auto;
+  background-image: url('images/background.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: cover;
+}
+
+/* || typography */
+
+h1, h2, h3 {
+  font-family: 'Sonsie One', cursive;
+  color: #2a2a2a;
+}
+
+p, input, li {
+  font-family: 'Open Sans Condensed', sans-serif;
+  color: #2a2a2a;
+}
+
+h1 {
+  font-size: 4rem;
+  text-align: center;
+  color: black;
+  font-family: calibri;
+}
+
+h2 {
+  font-size: 3rem;
+  text-align: center;
+  font-family: calibri;
+}
+
+h3 {
+  font-size: 2.2rem;
+}
+
+p, li {
+  font-size: 1.6rem;
+  line-height: 1.5;
+}
+
+/* || header layout */
+
+
+
+nav {
+  height: 50px;
+  background-color: #ff80ff;
+  display: flex;
+  margin-bottom: 10px;
+}
+
+nav ul {
+  padding: 0;
+  list-style-type: none;
+  flex: 2;
+  display: flex;
+}
+
+nav li {
+  display: inline;
+  text-align: center;
+  flex: 1;
+}
+
+
+
+nav form {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  height: 100%;
+  padding: 0 2em;
+}
+
+input {
+  font-size: 1.6rem;
+  height: 32px;
+}
+
+input[type="search"] {
+  flex: 3;
+}
+
+input[type="submit"] {
+  flex: 1;
+  margin-left: 1rem;
+  background: #333;
+  border: 0;
+  color: white;
+}
+
+/* || main layout */
+
+main {
+  display: flex;
+}
+
+img {
+  position: absolute;
+  left: 850px;
+  top: 450px;
+  z-index: -1;
+}
+
+article {
+  flex: 4;
+  margin-top: 100px;
+  font-family: Arial;
+}
+
+/* Button */
+button {
+	border: black;
+	color: green;
+	padding: 15px 36px;
+	text-align: center;
+	display: inline-block;
+	font-size: 24px;
+	position: relative;
+	left: 75%;
+}
+
+
+/*Input Boxes*/
+.input1
+{
+width:15%;
+height:40px;
+float: left;
+color: black;
+}
+.input2
+{
+width:15%;
+height:40px;
+position: absolute;
+left: 43%;
+color: black;
+}
+.input3
+{
+width:15%;
+height:40px;
+float: right;
+color: black;
+}
+.input4
+{
+width:535px;
+height:40px;
+float: left;
+color: black;
+}
+.input5
+{
+width:15%;
+height:40px;
+float: right;
+color: black;
+}
+.infant
+{
+width:15%;
+height:40px;
+position: absolute;
+left: 43%;
+color: black;
+}
+.child
+{
+width:15%;
+height:40px;
+position: absolute;
+left: 43%;
+color: black;
+}
+.teen
+{
+width:15%;
+height:40px;
+position: absolute;
+left: 43%;
+color: black;
+}
+.adult
+{
+width:15%;
+height:40px;
+position: absolute;
+left: 43%;
+color: black;
+}
+.elderly
+{
+width:15%;
+height:40px;
+position: absolute;
+left: 43%;
+color: black;
+}
+
+/*Input Box Labels*/
+.fname
+{
+position: absolute;
+left: 15%;
+top: 14%;
+color: black;
+}
+.lname
+{
+position: absolute;
+left: 43%;
+top: 14%;
+color: black;
+}
+.bdate
+{
+position: absolute;
+left: 74%;
+top: 14%;
+color: black;
+}
+.email
+{
+position: absolute;
+left: 15%;
+top: 24%;
+color: black;
+}
+.location
+{
+position: absolute;
+left: 74%;
+top: 24%;
+color: black;
+}
+
+.booking1
+{
+position: absolute;
+left: 40%;
+top: 39%;
+color: black;
+}
+.booking2
+{
+position: absolute;
+left: 40%;
+top: 48%;
+color: black;
+}
+.booking3
+{
+position: absolute;
+left: 40%;
+top: 56%;
+color: black;
+}
+.booking4
+{
+position: absolute;
+left: 40%;
+top: 64%;
+color: black;
+}
+.booking5
+{
+position: absolute;
+left: 40%;
+top: 72%;
+color: black;
+}
+
+
+
+
+
+
+.WebContainer{
+    width: auto;
+    height: auto;
+}
+.articles{
+    width:90%; /*Takes 90% width from WebContainer*/
+    height: auto;
+    margin: auto;
+} 
+
+aside {
+  flex: 1;
+  margin-left: 10px;
+  background-color: #ff80ff;
+}
+
+aside li {
+  padding-bottom: 10px;
+}
+
+footer {
+  margin-top: 560px;
+  margin-left: 700px;
+}
+
