@@ -62,8 +62,9 @@ Development finished by
 
 
 Dependencies:
-Designs depend on having basic planning done.
-Development depends on initial designs.
+- To start our first wireframe designs, we need some basic planning done so we have something to go off. This could be keeping the homepage simple with only a small sentence and a button. Also choosing user inputs, the theme of the page, and navigation.
+- Development depends on high fidelity designs. This lets us know exactly how the website will look, with the background, text, and buttons. The reason this is dependent is because it's a lot more work to make changes in HTML than PowerPoint, so knowing what we're doing will help.
+
 
 
 
