@@ -30,10 +30,12 @@ Samuel Kennedy 50%
 Javarn Tromp de Haas 50%
 
 Risks:
-Errors like buttons not working
-Hackers
-Been outdated
-Accesability
+- Errors like buttons not working
+- Hackers
+- Been outdated
+- Accessability
+The main risk with using an online website are technical issues. These aren't uncommon, and can have major impacts on the business itself. Say a restaurant is using our booking system, but there's a problem which stops users from entering input or finishing the order. This can greatly reduce business, as the percentage of people that prefer to use an online website will not be able to book in. The business may not be aware of this problem for a period of time, only coming accross it by chance or getting a note from users will alert them.
+
 
 Benefits:
 Quicker and faster booking system
