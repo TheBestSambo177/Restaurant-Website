@@ -38,9 +38,10 @@ The main risk with using an online website are technical issues. These aren't un
 
 
 Benefits:
-Quicker and faster booking system
-Being able to do it anywhere with internet
-Increase customer count for businesses
+- Quicker and faster booking system
+- Being able to do it anywhere with internet
+- Increase customer count for businesses
+This website will make it easier for customers to book, which will in turn benefit the business. Booking online is a lot more convinent that through a phone call, and a lot more people could be willing to book if the process is simpler.
 
 General overview:
 The website will be three pages one being the home page, and information page, Checkoutpage
