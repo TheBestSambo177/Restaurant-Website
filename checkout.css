@@ -131,8 +131,9 @@ button {
 	text-align: center;
 	display: inline-block;
 	font-size: 24px;
-	position: relative;
+	position: absolute;
 	left: 75%;
+	top: 70%;
 }
 
 
@@ -151,6 +152,9 @@ width:15%;
 height:40px;
 float: left;
 color: black;
+left: 70%;
+position: absolute;
+top: 57%;
 }
 
 .AccNum
@@ -159,6 +163,9 @@ width:15%;
 height:40px;
 float: left;
 color: black;
+left: 70%;
+position: absolute;
+top: 37%;
 }
 
 .NameCard
@@ -169,7 +176,7 @@ float: left;
 color: black;
 left: 40%;
 position: absolute;
-top: 47%;
+top: 37%;
 }
 
 .Date
@@ -178,6 +185,9 @@ width:15%;
 height:40px;
 float: left;
 color: black;
+left: 40%;
+position: absolute;
+top: 57%;
 }
 
 .PaymentMethod
@@ -185,7 +195,7 @@ color: black;
 width:15%;
 height:40px;
 left: 55%;
-top: 32%;
+top: 22%;
 float: middle;
 color: black;
 position: absolute;
@@ -202,77 +212,15 @@ color: black;
 	
 
 /*Input Box Labels*/
-.fname
+.OrderSum
 {
 position: absolute;
-left: 15%;
-top: 14%;
+left: 18%;
+top: 10%;
 color: black;
-}
-.lname
-{
-position: absolute;
-left: 43%;
-top: 14%;
-color: black;
-}
-.bdate
-{
-position: absolute;
-left: 74%;
-top: 14%;
-color: black;
-}
-.email
-{
-position: absolute;
-left: 15%;
-top: 24%;
-color: black;
-}
-.location
-{
-position: absolute;
-left: 74%;
-top: 24%;
-color: black;
+font-size: 32px;
 }
 
-.booking1
-{
-position: absolute;
-left: 40%;
-top: 39%;
-color: black;
-}
-.booking2
-{
-position: absolute;
-left: 40%;
-top: 48%;
-color: black;
-}
-.booking3
-{
-position: absolute;
-left: 40%;
-top: 56%;
-color: black;
-}
-.booking4
-{
-position: absolute;
-left: 40%;
-top: 64%;
-color: black;
-}
-.booking5
-{
-position: absolute;
-left: 40%;
-top: 72%;
-color: black;
-}
 
 
 
