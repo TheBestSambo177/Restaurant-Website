@@ -8,7 +8,7 @@ Worked at PGA for 2 years and kiwi fruit thinning for a summer.
 Javarn Tromp de Haas
 Role:Design, Planning.
 Tertiary education with UE 2020 studying at Taradale High school with courses in computer science, english, math, media studies and digital media.
-Worked at Pettigrew Green Area
+Been working at Pettigrew Green Arena for over a year setting up and packing down events.
 
 Project Charter:
 We chose this website as the current ones are lacking in user interface and don't offer you much options apart from calling in the company.
