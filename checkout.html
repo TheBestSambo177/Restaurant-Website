@@ -4,10 +4,10 @@
   <head>
     <meta charset="utf-8">
 
-    <title>Checkout</title>
+    <title>Ordering</title>
     <link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Sonsie+One" rel="stylesheet" type="text/css">
-    <link rel="stylesheet" href="checkout.css">
-    <link rel="shortcut icon" href="images/Icon.ico">
+    <link rel="stylesheet" href="order.css">
+    <link rel="shortcut icon" href="images/icon.ico">
 
     <!-- the below three lines are a fix to get HTML5 semantic elements working in old versions of Internet Explorer-->
     <!--[if lt IE 9]>
@@ -19,56 +19,65 @@
     <!-- Here is our main header that is used across all the pages of our website -->
 
     <header>
-      <h1>Checkout</h1>
+      <h1>Ordering</h1>
     </header>
 	
 	<section>
     <!-- Here is our page's main content -->
-
     <article>
 
 
 <!-- Logo in the top left that brings user to homepage. -->
-<a href ="index.html"><img src="images/Logo.png" alt="Logo" width="250" height="200" style="vertical-align:middle;margin:-450px -850px"></a>
+<a href ="index.html"><img src="images/logo.png" alt="Logo" width="250" height="200" style="vertical-align:middle;margin:-450px -850px"></a>
 
 <!-- Labels for textboxes. -->
-<strong><p class="OrderSum"> Order Summary </p></strong>
-
+<p class="fname"> First Name: </p> 
+<p class="lname"> Last Name: </p>
+<p class="bdate"> Booking Date: </p> 
+<p class="email"> Email Address: </p>
+<p class="location"> Resturaunt Location: </p>
+<p class="booking1"> Infants: </p>
+<p class="booking2"> Children: </p>
+<p class="booking3"> Teens: </p>
+<p class="booking4"> Adults: </p>
+<p class="booking5"> Elderly: </p>
 
 <!-- All textboxes. -->
 <form>
 
-         <textarea rows = "5" cols = "40" name = "description">
-            Name Of Booking 
-	    Resturaunt Name
-      Table Size and Date and Time
-	        Pricing
-         </textarea><br>
-		 
+<input type="text" style="vertical-align:top;" class="input1" placeholder="First Name"> 
+
+<input type="text" style="vertical-align:top;" class="input2" placeholder="Last Name">
+
+<input type="text" style="vertical-align:top;" class="input3" placeholder="DD/MM/YYYY"> <br> <br> <br> <br> <br> <br> <br> <br>
+
+<select id="rest" name="rest">
+	<option value="taradale">Taradale</option>
+    <option value="napier">Napier</option>
+    <option value="marewa">Marewa</option>
+    <option value="greenmeadows">Greenmeadows</option>
+
+<input type="text" style="vertical-align:middle;" class="input4" placeholder="placeholder@gmail.com"> <br> <<br> <br> <br> <br> <br> <br> <br> <br>
+
+<input type="number" min="0" max="9" style="vertical-align:bottom;" class="infant" placeholder="0"> <br> <br> <br> <br> <br> <br> <br>  
+
+<input type="number" min="0" max="9" style="vertical-align:bottom;" class="child" placeholder="0"> <br> <br> <br> <br> <br> <br> <br> 
+
+<input type="number" min="0" max="9" style="vertical-align:bottom;" class="teen" placeholder="0"> <br> <br> <br> <br> <br> <br> <br> 
+
+<input type="number" min="0" max="9" style="vertical-align:bottom;" class="adult" placeholder="0"> <br> <br> <br> <br> <br> <br> <br> 
+
+<input type="number" min="0" max="9" style="vertical-align:bottom;" class="elderly" placeholder="0"> 
 
 
-<input type="text" style="vertical-align:middle;" class="PaymentMethod" placeholder="Payment Method">
-
-<input type="text" style="vertical-align:middle;" class="NameCard" placeholder="Name On Card">
-
-
-<input type="number" min="0" max="9" style="vertical-align:bottom;" class="AccNum" placeholder="Account Number"> <br> <br> <br> <br> <br> <br> <br>  
-
-
-<input type="text" style="vertical-align:top;" class="Date" placeholder="DD/MM/YYYY"> <br> <br> <br> <br> <br> <br> <br> <br>
 
 
 
 
-
-<input type="number" min="0" max="9" style="vertical-align:bottom;" class="CVV" placeholder="CVV"> <br> <br> <br> <br> <br> <br> <br> 
-
-
-		 
 </form>
 
-	<a href ="index.html"><button type="button">Finish Order</button></a>
-
+<a href ="checkout.html"><button type="button">Check Out</button></a>
+	    
     </article>
 	</section>
 
