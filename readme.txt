@@ -19,6 +19,7 @@ Objectives:
 - Easy to navigate
 - Visually appealing
 - Recongition over recall
+These are the 4 main things that we want our website to include, and they all sort of work together to create a better user experience. The most important would be a good UI, as all the others rely on it. This can mean that it isn't too cluttered, or difficult to read, or confusing on what to do next. This needs to be prioritized over being visual appealing, although that is an aspect of good UI. There's no point in making your website look good if it doesn't do what it's supposed to. Recognition over recall is another aspect of UI, and could mean how easy the website is to understand. Users should immediately know what to do upon looking at a website, and not have to remember from their previous experiences with it. This can be achieved by using universal features, such as the logo acting as a home button.
 
 Constraits:
 - Not making it too cluttured 
