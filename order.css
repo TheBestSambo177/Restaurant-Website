@@ -160,10 +160,11 @@ color: black;
 }
 .input4
 {
-width:535px;
+width:39%;
 height:40px;
 float: left;
 color: black;
+vertical-align:middle;
 }
 .input5
 {
@@ -220,6 +221,7 @@ position: absolute;
 left: 15%;
 top: 14%;
 color: black;
+vertical-align:top;
 }
 .lname
 {
@@ -285,8 +287,15 @@ left: 40%;
 top: 72%;
 color: black;
 }
-
-
+#rest
+{
+top:20px;
+width:16%;
+height:50px;
+float: right;
+color: black;
+vertical-align:middle;
+}
 
 
 
