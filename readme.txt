@@ -44,8 +44,7 @@ Benefits:
 This website will make it easier for customers to book, which will in turn benefit the business. Booking online is a lot more convinent that through a phone call, and a lot more people could be willing to book if the process is simpler.
 
 General overview:
-The website will be three pages one being the home page, and information page, Checkoutpage
-It will be targeted at adults.
+- This website will feature three pages, the homepage, the booking page, and the checkout page. All of these pages are important to the booking process, and will be designed to make the experience as easy as possible. The target audience of the website is adults, as they would be the ones booking for their friends or family.
 
 Project Vision:
 Our vision for this project is to create a website that's easy to understand and navigate, while also being visually appealing for the users.
